@@ -49,3 +49,5 @@ By:       Spring的思念
 	</properties>
 
 一目了然了吧！
+
+spring-cloud-vGreenwich.SR3 版本查看子项目版本配套关系参考spring-cloud-vGreenwich.SR2方法即可。
